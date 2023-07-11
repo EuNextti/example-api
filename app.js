@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get('/api', (req, res) => {
-  res.json({ message: 'Welcome to control application.' });
+  res.json({ message: 'Welcome to my application.' });
 });
 
 app.use('/api/v1', require('./controllers/index'));
