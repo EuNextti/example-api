@@ -13,7 +13,7 @@ Para instalar o projeto, siga estas etapas:
 ```
 1. git clone https://github.com/EuNextti/controlrpa-api.git
 2. npm install
-3. crie um arquivo .env usando o [template](.env.template) de exemplo
+3. crie um arquivo .env usando o env.template de exemplo
 4. coloque as envs de seu pgAdmin no .env
 3. npm run db:create
 4. npm run db:migrate
