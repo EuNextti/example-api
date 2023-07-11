@@ -1,19 +1,3 @@
-# CONTROL API
-
-> Aplicação em Node para controle e gerenciamento de módulos da CONTROL RPA.
-
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Endpoint post de recebimento de arquivos
-- [x] Armazenamento temporário de arquivos em diretório local
-- [ ] Verificação de arquivo existente no Parseur
-- [x] Post de arquivos ao Parseur
-- [x] Remoção de arquivo após ser parseado
-- [ ] Get de dados parseados
-- [ ] Popular banco com dados parseados
-
 ## 💻 Requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
